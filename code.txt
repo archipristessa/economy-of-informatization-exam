@@ -1,5 +1,11 @@
-task 01
+task 01 (lab 1)
 9807aef92391da93208c9de211c63ff04ba296a93ffdc4189771edb17a74db6b  -
 
-tasks 02, 03, 04
+tasks 02, 03, 04 (lab 2,3,4)
 3eacab5d3070c6f01ff3c5030e538f32
+
+task 06 (lab 6)
+c88ec5b5e19e054c1ea016554ce45ce7
+
+task 05 (lab 5)
+1c0caf31ca1f4baaae8d3171d0c19a1d
