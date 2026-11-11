@@ -9,3 +9,6 @@ c88ec5b5e19e054c1ea016554ce45ce7
 
 task 05 (lab 5)
 1c0caf31ca1f4baaae8d3171d0c19a1d
+
+task 07 (lab 7)
+aee1e2b8ff89bbac099982afdbf30c47a85f03d3b0c5adb96ecac322e3924394
